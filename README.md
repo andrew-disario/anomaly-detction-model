@@ -1,7 +1,7 @@
 <h1>Anomaly Detection Model</h1>
 
 <h2>Description:</h2>
-Project consists of data observability tools that leverages machine learning to identify unexpected changes in a dataset. In this instance, New York City taxi data was utilized to identify anomalies in fare prices given datetime values while accounting for daily and weekly trends (monthly and yearly trends were excluded from this project). 
+Project consists of data observability tools that leverages machine learning to identify unexpected changes in a dataset. In this instance, New York City taxi data was utilized to identify anomalies in fare prices given datetime values while accounting for daily and weekly trends (monthly and yearly trends were not applicable in this analysis but can be accounted for). However, generalized variable identification has been used so that data can be pathed in, independent and dependent variables can be identified and a changepoint can be set. When run, the model will output a table of anomalies and a visual plot with anomalies highlighted.
 <br />
 
 
