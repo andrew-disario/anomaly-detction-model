@@ -1,28 +1,28 @@
 <h1>Anomaly Detection Model</h1>
 
-<h2>Description</h2>
+<h2>Description:</h2>
 Project consists of data observability tools that leverages machine learning to identify unexpected changes in a dataset. In this instance, New York City taxi data was utilized to identify anomalies in fare prices given datetime values while accounting for daily and weekly trends (monthly and yearly trends were excluded from this project).
 <br />
 
 
-<h2>Languages and Libraries</h2>
+<h2>Languages and Libraries:</h2>
 
 - <b>Python</b> 
 - <b>Pandas</b>
 - <b>Matplotlib</b>
 - <b>Datetime</b>
 - <b>Plotly</b>
-- <b>Fbprophet</b>\
+- <b>Fbprophet</b>
 
-<h2>Other Files Used </h2>
-
-- <b>nyx_taxi.csv</b> 
-
-<h2>Environments Used </h2>
+<h2>Environments:</h2>
 
 - <b>Windows 11</b> 
 
-<h2>Project Walk-Through:</h2>
+<h2>Other Files:</h2>
+
+- <b>[nyx_taxi.csv](https://github.com/andrew-disario/anomaly-detction-model/blob/main/nyc_taxi.csv)</b> 
+
+<h2>Walk-Through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
