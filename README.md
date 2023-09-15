@@ -18,8 +18,9 @@ Project consists of data observability tools that apply machine learning to iden
 
 - <b>Windows 11</b> 
 
-<h2>Other Files:</h2>
+<h2>Files:</h2>
 
+- <b>[anomaly-detection-model.ipynb](https://github.com/andrew-disario/anomaly-detction-model/blob/main/anomaly-detection-model.ipynb)</b> 
 - <b>[nyx_taxi.csv](https://github.com/andrew-disario/anomaly-detction-model/blob/main/nyc_taxi.csv)</b> 
 
 <h2>Walk-Through:</h2>
