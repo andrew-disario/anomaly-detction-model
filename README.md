@@ -6,7 +6,7 @@ This project uses data observability tools that apply machine learning to identi
 
 <p align="center">
 <br />
-<img src="https://github.com/andrew-disario/anomaly-detction-model/blob/main/output.png?raw=true" height="60%" width="60%" alt="Anomaly Detection Model"/>
+<img src="https://github.com/andrew-disario/anomaly-detction-model/blob/main/output.png?raw=true" height="75%" width="75%" alt="Anomaly Detection Model"/>
 <br />
 
 <h2>Languages and Libraries</h2>
